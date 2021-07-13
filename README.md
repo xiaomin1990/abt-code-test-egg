@@ -10,7 +10,7 @@ egg:https://eggjs.org/zh-cn/intro/index.html
 
 ```bash
 git clone https://github.com/xiaomin1990/abt-code-test-egg.git
-cd abt-code-test-egg.git
+cd abt-code-test-egg
 npm i
 npm run dev
 open http://127.0.0.1:7001/
